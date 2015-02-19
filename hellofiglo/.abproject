@@ -1,0 +1,38 @@
+{
+  "ProjectName": "hellofiglo",
+  "ProjectGuid": "c9f07365-0f48-47a6-b184-63e2763c6e3d",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.hellofiglo",
+  "DisplayName": "hellofiglo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2a5b68d1-62be-4256-ad79-cd63dcaf59e0}",
+  "WP8ProductID": "{f8ffad55-1b8b-4a2d-88fa-d377398fd500}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
